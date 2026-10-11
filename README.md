@@ -21,9 +21,12 @@ A closing section will compare **my 5 personal favorites** from the list against
 
 1. **Collect** - Python: metadata from TMDB (genres, seasons, episodes, networks, production companies, country, runtime) and IMDb non-commercial datasets (IMDb ID, rating, votes)
 2. **Clean** - pandas, with a changelog of every cleaning decision
-3. **Store** - SQL database (shows, genres, companies, platforms tables) and analysis queries
+3. **Store** - SQLite database (shows, genres, companies, platforms tables) and analysis queries
 4. **Analyze** - exploratory notebook (distributions, time trends, show groupings)
-5. **Visualize** - interactive dashboard (Power BI / Tableau)
+5. **Visualize** - interactive dashboard in Tableau Public
+
+## Tools 
+Python (pandas, requests, matplotlib), SQLite, Tableau Public, Git/GitHub
 
 ## Progress
 
@@ -53,6 +56,10 @@ docs/             data dictionary and notes
 - This product uses the TMDB API but is not endorsed or certified by TMDB.
 - Streaming availability data (when added) is provided by JustWatch via TMDB.
 - Ratings and votes (when added): IMDb non-commercial datasets (imdb.com/interfaces). Raw IMDb files are not redistributed in this repository.
+
+## Disclaimer
+
+This is a non-commercial project created for educational and personal portfolio purposes. It is not affiliated with or endorsed by The New York Times, TMDB, IMDb, or JustWatch. All show titles, rankings, and third-party data belong to their respective owners.
 
 ## Author
 
