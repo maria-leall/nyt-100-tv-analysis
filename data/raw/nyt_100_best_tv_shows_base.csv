@@ -1,101 +1,101 @@
 nyt_rank,title,nyt_years_raw,start_year,end_year,status_per_nyt,scope_note,analysis_scope
-1,Breaking Bad,2008-2013,2008,2013.0,ended,,full_series
-2,The Wire,2002-2008,2002,2008.0,ended,,full_series
-3,Mad Men,2007-2015,2007,2015.0,ended,,full_series
-4,Succession,2018-2023,2018,2023.0,ended,,full_series
-5,Fleabag,2016-2019,2016,2019.0,ended,,full_series
-6,Game of Thrones,2011-2019,2011,2019.0,ended,,full_series
-7,Veep,2012-2019,2012,2019.0,ended,,full_series
-8,30 Rock,2006-2013,2006,2013.0,ended,,full_series
-9,Curb Your Enthusiasm,2000-2024,2000,2024.0,ended,,full_series
-10,Atlanta,2016-2022,2016,2022.0,ended,,full_series
-11,The Office (U.S.),2005-2013,2005,2013.0,ended,,full_series
-12,Arrested Development,2003-2019,2003,2019.0,ended,,full_series
-13,Girls,2012-2017,2012,2017.0,ended,,full_series
-14,Friday Night Lights,2006-2011,2006,2011.0,ended,,full_series
-15,Six Feet Under,2001-2005,2001,2005.0,ended,,full_series
-16,The Office (U.K.),2001-2003,2001,2003.0,ended,,full_series
-17,The Americans,2013-2018,2013,2018.0,ended,,full_series
-18,I May Destroy You,2020,2020,2020.0,ended,,full_series
-19,Chernobyl,2019,2019,2019.0,ended,,full_series
-20,The Crown,2016-2023,2016,2023.0,ended,,full_series
+1,Breaking Bad,2008-2013,2008,2013,ended,,full_series
+2,The Wire,2002-2008,2002,2008,ended,,full_series
+3,Mad Men,2007-2015,2007,2015,ended,,full_series
+4,Succession,2018-2023,2018,2023,ended,,full_series
+5,Fleabag,2016-2019,2016,2019,ended,,full_series
+6,Game of Thrones,2011-2019,2011,2019,ended,,full_series
+7,Veep,2012-2019,2012,2019,ended,,full_series
+8,30 Rock,2006-2013,2006,2013,ended,,full_series
+9,Curb Your Enthusiasm,2000-2024,2000,2024,ended,,full_series
+10,Atlanta,2016-2022,2016,2022,ended,,full_series
+11,The Office (U.S.),2005-2013,2005,2013,ended,,full_series
+12,Arrested Development,2003-2019,2003,2019,ended,,full_series
+13,Girls,2012-2017,2012,2017,ended,,full_series
+14,Friday Night Lights,2006-2011,2006,2011,ended,,full_series
+15,Six Feet Under,2001-2005,2001,2005,ended,,full_series
+16,The Office (U.K.),2001-2003,2001,2003,ended,,full_series
+17,The Americans,2013-2018,2013,2018,ended,,full_series
+18,I May Destroy You,2020,2020,2020,ended,,full_series
+19,Chernobyl,2019,2019,2019,ended,,full_series
+20,The Crown,2016-2023,2016,2023,ended,,full_series
 21,The White Lotus,2021-present,2021,,ongoing,,full_series
-22,Lost,2004-2010,2004,2010.0,ended,,full_series
-23,The Comeback,2005-2026,2005,2026.0,ended,,full_series
-24,Deadwood,2004-2006,2004,2006.0,ended,,full_series
-25,The Leftovers,2014-2017,2014,2017.0,ended,,full_series
+22,Lost,2004-2010,2004,2010,ended,,full_series
+23,The Comeback,2005-2026,2005,2026,ended,,full_series
+24,Deadwood,2004-2006,2004,2006,ended,,full_series
+25,The Leftovers,2014-2017,2014,2017,ended,,full_series
 26,Black Mirror,2011-present,2011,,ongoing,,full_series
-27,Better Call Saul,2015-2022,2015,2022.0,ended,,full_series
-28,Band of Brothers,2001,2001,2001.0,ended,,full_series
-29,Key & Peele,2012-2015,2012,2015.0,ended,,full_series
+27,Better Call Saul,2015-2022,2015,2022,ended,,full_series
+28,Band of Brothers,2001,2001,2001,ended,,full_series
+29,Key & Peele,2012-2015,2012,2015,ended,,full_series
 30,Severance,2022-present,2022,,ongoing,,full_series
 31,Survivor,2000-present,2000,,ongoing,,full_series
-32,Andor,2022-2025,2022,2025.0,ended,,full_series
-33,Enlightened,2011-2013,2011,2013.0,ended,,full_series
-34,Schitt's Creek,2015-2020,2015,2020.0,ended,,full_series
-35,True Detective,2014,2014,2014.0,ended,"Analyze Season 1 only (seasons, episodes, runtime, ratings)",season_1_only
+32,Andor,2022-2025,2022,2025,ended,,full_series
+33,Enlightened,2011-2013,2011,2013,ended,,full_series
+34,Schitt's Creek,2015-2020,2015,2020,ended,,full_series
+35,True Detective,2014,2014,2014,ended,"Analyze Season 1 only (seasons, episodes, runtime, ratings)",season_1_only
 36,The Pitt,2025-present,2025,,ongoing,,full_series
-37,Battlestar Galactica,2005-2009,2005,2009.0,ended,,full_series
-38,Homeland,2011-2020,2011,2020.0,ended,,full_series
-39,Watchmen,2019,2019,2019.0,ended,,full_series
-40,Adolescence,2025,2025,2025.0,ended,,full_series
-41,Louie,2010-2015,2010,2015.0,ended,,full_series
-42,Hacks,2021-2026,2021,2026.0,ended,,full_series
-43,Peaky Blinders,2013-2022,2013,2022.0,ended,,full_series
-44,BoJack Horseman,2014-2020,2014,2020.0,ended,,full_series
-45,Happy Valley,2014-2023,2014,2023.0,ended,,full_series
-46,Broad City,2014-2019,2014,2019.0,ended,,full_series
-47,Twin Peaks: The Return,2017,2017,2017.0,ended,,full_series
-48,House of Cards,2013-2018,2013,2018.0,ended,,full_series
-49,Normal People,2020,2020,2020.0,ended,,full_series
-50,Parks and Recreation,2009-2015,2009,2015.0,ended,,full_series
-51,The Good Place,2016-2020,2016,2020.0,ended,,full_series
-52,Downton Abbey,2010-2015,2010,2015.0,ended,,full_series
-53,Stranger Things,2016-2025,2016,2025.0,ended,,full_series
-54,The Bureau,2015-2020,2015,2020.0,ended,,full_series
-55,Insecure,2016-2021,2016,2021.0,ended,,full_series
-56,Nathan for You,2013-2017,2013,2017.0,ended,,full_series
+37,Battlestar Galactica,2005-2009,2005,2009,ended,,full_series
+38,Homeland,2011-2020,2011,2020,ended,,full_series
+39,Watchmen,2019,2019,2019,ended,,full_series
+40,Adolescence,2025,2025,2025,ended,,full_series
+41,Louie,2010-2015,2010,2015,ended,,full_series
+42,Hacks,2021-2026,2021,2026,ended,,full_series
+43,Peaky Blinders,2013-2022,2013,2022,ended,,full_series
+44,BoJack Horseman,2014-2020,2014,2020,ended,,full_series
+45,Happy Valley,2014-2023,2014,2023,ended,,full_series
+46,Broad City,2014-2019,2014,2019,ended,,full_series
+47,Twin Peaks: The Return,2017,2017,2017,ended,"Analyze Season 3 (The Return, 2017) only",season_3_only
+48,House of Cards,2013-2018,2013,2018,ended,,full_series
+49,Normal People,2020,2020,2020,ended,,full_series
+50,Parks and Recreation,2009-2015,2009,2015,ended,,full_series
+51,The Good Place,2016-2020,2016,2020,ended,,full_series
+52,Downton Abbey,2010-2015,2010,2015,ended,,full_series
+53,Stranger Things,2016-2025,2016,2025,ended,,full_series
+54,The Bureau,2015-2020,2015,2020,ended,,full_series
+55,Insecure,2016-2021,2016,2021,ended,,full_series
+56,Nathan for You,2013-2017,2013,2017,ended,,full_series
 57,I Think You Should Leave,2019-present,2019,,ongoing,,full_series
-58,Chappelle's Show,2003-2006,2003,2006.0,ended,,full_series
-59,PEN15,2019-2021,2019,2021.0,ended,,full_series
-60,Peep Show,2003-2015,2003,2015.0,ended,,full_series
+58,Chappelle's Show,2003-2006,2003,2006,ended,,full_series
+59,PEN15,2019-2021,2019,2021,ended,,full_series
+60,Peep Show,2003-2015,2003,2015,ended,,full_series
 61,RuPaul's Drag Race,2009-present,2009,,ongoing,,full_series
 62,Slow Horses,2022-present,2022,,ongoing,,full_series
-63,The Thick of It,2005-2012,2005,2012.0,ended,,full_series
-64,Anthony Bourdain: Parts Unknown,2013-2018,2013,2018.0,ended,,full_series
-65,Mare of Easttown,2021,2021,2021.0,ended,,full_series
+63,The Thick of It,2005-2012,2005,2012,ended,,full_series
+64,Anthony Bourdain: Parts Unknown,2013-2018,2013,2018,ended,,full_series
+65,Mare of Easttown,2021,2021,2021,ended,,full_series
 66,The Rehearsal,2022-present,2022,,ongoing,,full_series
-67,The Handmaid's Tale,2017-2025,2017,2025.0,ended,,full_series
-68,Ozark,2017-2022,2017,2022.0,ended,,full_series
-69,Anthony Bourdain: No Reservations,2005-2012,2005,2012.0,ended,,full_series
-70,The Shield,2002-2008,2002,2008.0,ended,,full_series
-71,Beef,2023,2023,2023.0,ended,"Analyze Season 1 only (seasons, episodes, runtime, ratings)",season_1_only
-72,Squid Game,2021-2025,2021,2025.0,ended,,full_series
-73,Barry,2018-2023,2018,2023.0,ended,,full_series
-74,The Bear,2022-2026,2022,2026.0,ended,,full_series
+67,The Handmaid's Tale,2017-2025,2017,2025,ended,,full_series
+68,Ozark,2017-2022,2017,2022,ended,,full_series
+69,Anthony Bourdain: No Reservations,2005-2012,2005,2012,ended,,full_series
+70,The Shield,2002-2008,2002,2008,ended,,full_series
+71,Beef,2023,2023,2023,ended,"Analyze Season 1 only (seasons, episodes, runtime, ratings)",season_1_only
+72,Squid Game,2021-2025,2021,2025,ended,,full_series
+73,Barry,2018-2023,2018,2023,ended,,full_series
+74,The Bear,2022-2026,2022,2026,ended,,full_series
 75,Ted Lasso,2020-present,2020,,ongoing,,full_series
-76,Somebody Somewhere,2022-2024,2022,2024.0,ended,,full_series
-77,Modern Family,2009-2020,2009,2020.0,ended,,full_series
+76,Somebody Somewhere,2022-2024,2022,2024,ended,,full_series
+77,Modern Family,2009-2020,2009,2020,ended,,full_series
 78,It's Always Sunny in Philadelphia,2005-present,2005,,ongoing,,full_series
-79,The Good Wife,2009-2016,2009,2016.0,ended,,full_series
-80,How To With John Wilson,2020-2023,2020,2023.0,ended,,full_series
-81,The Queen's Gambit,2020,2020,2020.0,ended,,full_series
-82,Better Things,2016-2022,2016,2022.0,ended,,full_series
-83,Justified,2010-2015,2010,2015.0,ended,,full_series
-84,Planet Earth,2006,2006,2006.0,ended,,full_series
+79,The Good Wife,2009-2016,2009,2016,ended,,full_series
+80,How To With John Wilson,2020-2023,2020,2023,ended,,full_series
+81,The Queen's Gambit,2020,2020,2020,ended,,full_series
+82,Better Things,2016-2022,2016,2022,ended,,full_series
+83,Justified,2010-2015,2010,2015,ended,,full_series
+84,Planet Earth,2006,2006,2006,ended,,full_series
 85,The Great British Baking Show,2010-present,2010,,ongoing,,full_series
 86,Shogun,2024-present,2024,,ongoing,,full_series
-87,Reservation Dogs,2021-2023,2021,2023.0,ended,,full_series
-88,Dexter,2006-2013,2006,2013.0,ended,,full_series
-89,Baby Reindeer,2024,2024,2024.0,ended,,full_series
-90,Eastbound & Down,2009-2013,2009,2013.0,ended,,full_series
-91,Catastrophe,2015-2019,2015,2019.0,ended,,full_series
-92,The Night Of,2016,2016,2016.0,ended,,full_series
-93,Station Eleven,2021-2022,2021,2022.0,ended,,full_series
+87,Reservation Dogs,2021-2023,2021,2023,ended,,full_series
+88,Dexter,2006-2013,2006,2013,ended,,full_series
+89,Baby Reindeer,2024,2024,2024,ended,,full_series
+90,Eastbound & Down,2009-2013,2009,2013,ended,,full_series
+91,Catastrophe,2015-2019,2015,2019,ended,,full_series
+92,The Night Of,2016,2016,2016,ended,,full_series
+93,Station Eleven,2021-2022,2021,2022,ended,,full_series
 94,The Diplomat,2023-present,2023,,ongoing,,full_series
-95,House,2004-2012,2004,2012.0,ended,,full_series
-96,Halt and Catch Fire,2014-2017,2014,2017.0,ended,,full_series
-97,Community,2009-2015,2009,2015.0,ended,,full_series
-98,The OA,2016-2019,2016,2019.0,ended,,full_series
-99,Gilmore Girls,2000-2007,2000,2007.0,ended,,full_series
-100,Scandal,2012-2018,2012,2018.0,ended,,full_series
+95,House,2004-2012,2004,2012,ended,,full_series
+96,Halt and Catch Fire,2014-2017,2014,2017,ended,,full_series
+97,Community,2009-2015,2009,2015,ended,,full_series
+98,The OA,2016-2019,2016,2019,ended,,full_series
+99,Gilmore Girls,2000-2007,2000,2007,ended,,full_series
+100,Scandal,2012-2018,2012,2018,ended,,full_series

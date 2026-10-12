@@ -146,8 +146,10 @@ def collect_one(row, key, overrides, skip_runtime, today):
         return {"tmdb_id": tid, "tmdb_match": quality}, [], [], [], [], ["details request failed"]
 
     seasons = [s for s in d.get("seasons", []) if s.get("season_number", 0) >= 1]
-    if row.get("analysis_scope") == "season_1_only":
-        seasons = [s for s in seasons if s["season_number"] == 1]
+    scope = str(row.get("analysis_scope", ""))
+    m = re.match(r"season_(\d+)_only", scope)
+    if m:
+        seasons = [s for s in seasons if s["season_number"] == int(m.group(1))]
     season_numbers = [s["season_number"] for s in seasons]
 
     if skip_runtime:
@@ -166,7 +168,7 @@ def collect_one(row, key, overrides, skip_runtime, today):
     streaming = names(us.get("flatrate"))
 
     last_air_year = str(d.get("last_air_date") or "")[:4]
-    if row["status_per_nyt"] == "ended" and row.get("analysis_scope") != "season_1_only" \
+    if row["status_per_nyt"] == "ended" and not scope.startswith("season_") \
             and last_air_year and last_air_year != str(row["end_year"]).replace(".0", ""):
         reasons.append(f"last air year {last_air_year} differs from NYT end year")
     for field, val in (("genres", genres), ("networks", networks), ("runtime", avg_rt),
