@@ -63,4 +63,4 @@ This is a non-commercial project created for educational and personal portfolio 
 
 ## Author
 
-Maria L
+Maria Leal
