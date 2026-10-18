@@ -9,12 +9,10 @@ A data analytics project on *The New York Times'* list **"The 100 Best TV Shows 
 **What does a great show look like?**
 What do the NYT's 100 best shows have in common, and how do they differ (era, length, format, genre, network/platform, country)? The final question may be refined as the project develops.
 
-A closing section will compare **my 5 personal favorites** from the list against the rest.
-
 ## Scope
 
 - Dataset of the 100 shows on the list (no critic-vs-audience focus; the goal is to profile and compare the shows on the list itself).
-- Shows listed for a single season (*True Detective*, *Beef*) are analyzed on that season only (`analysis_scope = season_1_only`).
+- Shows listed for a single season (*True Detective*, *Beef*) are analyzed on that season only.
 - Findings describe **this list only**. It is an editorial selection of 100 shows, so results are not generalizable to TV as a whole.
 
 ## Planned pipeline
