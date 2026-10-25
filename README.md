@@ -29,7 +29,7 @@ Python (pandas, requests, matplotlib), SQLite, Tableau Public, Git/GitHub
 ## Progress
 
 - [x] Base dataset from the NYT list (rank, title, years, status)
-- [ ] TMDB / IMDb data collection
+- [x] TMDB / IMDb data collection
 - [ ] Data cleaning and data dictionary
 - [ ] SQL database and queries
 - [ ] Analysis notebook
